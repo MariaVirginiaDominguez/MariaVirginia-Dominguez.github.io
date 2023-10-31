@@ -1,0 +1,18 @@
+footer{
+    margin-top: 10px;
+}
+footer ul{
+    padding: 0;
+    list-style:none;
+    text-decoration-line: none;    
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between ;
+    margin-top: 10px;
+}
+footer ul li a{
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
